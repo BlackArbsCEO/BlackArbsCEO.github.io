@@ -1,0 +1,137 @@
+name:
+  first: Brian
+  last: Christopher
+style: banking # casual, classic, oldstyle, or banking
+color: blue # blue, orange, green, red, purple, grey and black
+phone: ~(617)~642~9211
+email: bcr@blackarbs.com
+pdf: /data/cv.pdf
+src: https://github.com/BlackArbsCEO
+url: "BlackArbsCEO.github.io"
+social:
+  github: BlackArbsCEO
+  twitter: BlackArbsCEO
+  linkedin: bcrblackarbs
+
+
+order:
+  - [interests, Research Interests]
+  - [education, Education and Professional Development]
+  - [industry, Industry Experience]
+  #- [publications, Publications]
+  - [projects, Projects]
+  - [skills, Skills]
+  - [activities, Activities]
+
+interests: Investment Management, Quantitative Analysis, Applied Math, Stocks, Python, Trading, Alternative Investments, Sports, Poker.
+
+education:
+  - school: CFA Institute
+    location: Denver, Colorado
+    degree: Level III Candidate
+    dates: June 2015
+
+  - school: Northeastern University
+    location: Boston, Massachusetts
+    degree: B.S., Economics
+    dates: January 2003--May 2008
+    overallGPA: 3.0/4.00
+
+industry:
+  - place: Thomson Reuters – Financial and Risk Division
+    location: Denver, Colorado
+    title: Financial Data Analyst (Contractor)
+    dates: January 2014--June 2014
+    details:
+      - '{\bf Description}: I was contracted as Financial Data Analyst for two main projects within the Financial and Risk division of Thomson Reuters~ PROJECT 1, and PROJECT 2 The primary purpose of PROJECT 1 was to improve data feed quality by clarifying, simplifying and reclassifying data from legacy database systems and data feeds, to integrate with modern higher specification databases which feed Thomson Reuters flagship data products; which are then distributed to clients globally. The purpose of PROJECT 2 was assisting the Senior Financial Data Analyst, post the recent acquisition of the Canadian Globe and Mail media conglomerate, with integration of financial data into Thomson Reuters current flagship data products. In addition to fulfilling the required responsibilities in my role as a financial data analyst I have created long lasting value on the following projects'
+      - '{\bf Project 1}: I expanded the role of the financial data analyst as a result of the scope and importance of the project. In addition to the general duties outlined below, I was tasked with acquiring specialized technical knowledge of the proprietary Thomson Reuters’ databases and data feed products in order to fulfill desired project outcomes. The Content team (my group) acted as a bridge between client facing divisions and internal IT/Product development teams; often translating business and client requirements into actionable technical processes that could be interpreted and understood by development, while also proposing and enacting new or improved solutions. I was tasked with attaining proficiency in the following client facing products (LIM, LCORE, ICIS) and ~4 internal databases that support those products to further assist development teams and implement solutions.'  
+      - '{\bf Project 2 Performance~Distribution Reconciliation}: Used my Python programming knowledge to develop custom scripts to assist in early high priority assignments. As a result~ I was able to reconcile approximately 20,000 duplicate distributions in days where previous efforts required week(s) and multiple global data analysts to complete. Helped team identify the development logic gaps causing inconsistencies in the performance data. Accuracy of the performance calculations provided by the affected data feeds improved dramatically leading to increased client satisfaction and data consistency.'
+      - '{\bf Project 2 add~on}: Improved the data integration and translation process by developing data mapping solution between the two data systems using an idea originally considered impossible. It was thought we could not map certain securities between datasets Globe and Mail and T.R. because we did not share any common identifier codes or data quality was inconsistent. I proposed we use CUSIPS on the individual security level as the link and back that out to identify the issuer names and translations within both systems. As a result~ A framework for efficient data integration and validation checks between Thomson Reuters was created and is currently being used on projects outside of scope. Development was able to successfully map approximately 40,000 issuers in 2 days where previous efforts took days to map approximately 1000 of those 40000. 8000 were high priority issuers needed to fulfill internal and external client requests. This process also lowered the probability of inaccuracies and bad matches filtering through to flagship data feeds via this process to near zero.'
+      - '{\bf General Responsibilities}: 1.Financial database management and validation 2.Fulfill requests from client facing divisions for priority data item migration 3.Validate data items and performance calculations in collaboration with IT and internal Global Fund Ownership Groups 4.Assist Content team with process development and internal data migration solutions 5.Analyze large financial data sets (200K lines), identify issues, cleanse data and recommend solutions 6.Data mapping to integrate data sets 7.Facilitate data management and validation solutions between global offshore database management teams and Canadian Fund Ownership teams
+        and additional ad hoc requests as needed'
+  - place: BlackArbs LLC
+    location: Denver, Colorado
+    title: Owner Analyst
+    dates: April 2013--Present
+    details:
+      - Trusted financial analyst hired to handle proprietary and confidential information. Responsibilities include equity research, financial modeling, equity and asset valuation, custom reporting and PowerPoint presentations. 
+      - Currently under development~
+      - {\bf BlackArbs iVC Report (identify Value Creators)}
+      - A proprietary report utilizing fundamental data with an emphasis on economic return on investment calculations to identify firms that create and/or destroy shareholder value to assist buy side investors with their equity investment decisions.
+      - Uses proprietary economic return calculations to grade firms
+      - Also provides graphs and charts to show economic return performance over time
+      - Proprietary Python generated quantitative analysis package which delivers custom return scatterplots, rolling beta calculations, volatility calculations, correlation matrices, and stock performance comparisons almost entirely automated.
+      - {\bf Key projects include}
+      - Confidential Client. Provided key mutual fund financial analysis using Python, and Excel to analyze and report data.
+      - Confidential Client. Provided report exposing company fraud. Utilized financial filings, and industry specific research to find GAAP violations including potentially fraudulent/fake assets, and asset inflation.
+      - Confidential Client. Provided analysis of firm specific financials. Compared firm data to industry data and produced custom charts featuring growth metrics, financials, revenue composition, custom composite indices and more. 
+      - Common tools used~ MS Excel, Word, PowerPoint and Python
+
+  - place: Lipper~A Thomson Reuters Company ~ SEC Reporting & Compliance 
+    location: Denver, Colorado
+    title: Financial Analyst (Contractor) 
+    dates: December 2011--June 2012
+    details:
+      - Analyzed raw financial data relating to mutual funds for the purposes of composing and delivering reports to
+        key Lipper clients and mutual funds’ boards of directors to serve their reporting and SEC compliance needs.
+      - Managed financial reporting projects for six (6) clients, from the project setup phase to data organization and
+       analysis to report construction and delivery. Combined project value is ~$350,000 USD.
+      - Utilized excel to validate, model, and format mutual fund data to be used in conjunction with internal report
+        generation software to develop 15c reports.
+      - Successful, on time, completion of six (6) 15c reporting projects for different boards of directors, including
+        additional specific client requests.
+      - Successfully completed several hypothetical new fund expense reports for a major client, contributing to
+        departmental goals of increasing firm profit via additional revenue streams.
+      - Assisted senior project managers with project setup, to meet early deliverables for Lipper’s largest fiduciary services clients.
+
+  - place: Fitcorp Health Centers ~ Corporate Fitness & Wellness 
+    location: Boston, Massachusetts
+    title: Sales~Account Management
+    dates: April 2010--April 2011
+    details:
+      - Membership sales in excess of $10,000 USD delivered via phone inquiries, tours, and explanation of fitness
+        benefits assisting the team in exceeding sales goals for traditionally depressed months (February and
+        March).
+      - Organized and facilitated fitness competitions involving 50+ members to drive new membership, and
+        retention resulting in additional sales of $1250 USD.
+      - Responsible for accounting reconciliation, account receivables, and cash deposit processes for
+        approximately 700+ members.
+      - Maintained membership database and account management of 700+ members including data validation during and after transition of software system upgrade.
+
+  - place: Chimera Securities ~ Proprietary Trading 
+    location: Boston, Massachusetts
+    title: Cash Equities Trader 
+    dates: November 2008--September 2009
+    details:
+      - Traded cash equities intraday on firm’s account using NYSE, Arca, Bats, & NASDAQ exchanges.
+      - Position sizes up to $75,000 USD in value with approximately 500+ shares per trade.
+      - Primarily used technical trading signals generated by analysis of bid~ask spreads, volume, moving averages, oscillators, and market moving news.
+
+#publications: publications.bib
+
+projects:
+  website:
+    name: Professional Blog and Website
+    url: http://blackarbs.com
+    details:
+      - Hosted on Squarespace.
+      - '{\bf Topics}: Capital Markets, Equity, Global Macro, Relative Value, Trading, Investing, Research, Python'
+
+  github:
+    name: GitHub CV
+    url: BlackArbsCEO.github.io
+    details:
+      - Hosts cv
+skills:
+  - title: Preference
+    details: Python
+  - title: Languages
+    details: HTML/CSS*, JavaScript**, Python****, Excel***, R**
+  - title: Systems
+    details: Windows
+  - title: Rankings
+    details: 1/10* -- 3/10** -- 5/10*** -- 7/10****
+
+activities:
+  - Contestant in Las Vegas Hilton's 2014 NFL SuperContest (World Series of NFL Sports Betting)~placed 46 out of 1405 in main contest~3 out of 1106 in mini~contest
+  - Northeastern University, Resident Assistant for inaugural Multi~cultural International Residence Hall program, 2012--2013
