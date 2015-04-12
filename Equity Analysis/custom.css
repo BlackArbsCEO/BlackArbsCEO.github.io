@@ -96,9 +96,9 @@
       /*  overflow-y: scroll; */
       /*  max-height: 300px;   */
     }
-    code{
+   /* code{
       font-size: 78%;
-    }
+    }*/
     .rendered_html code{
         background-color: transparent;
         white-space: inherit;   
