@@ -185,8 +185,8 @@
       display:block;
       background: #f3f3f3;
       font-family: "Open sans",verdana,arial,sans-serif;
-      width:610px;
-      padding: 15px 15px 15px 15px;
+      width:700px; /*altered from 610px*/
+      padding: 5px 5px 5px 5px; /*altered from 15px 15px 15px 15px*/
       text-align:justify;
       text-justify:inter-word;
       }
