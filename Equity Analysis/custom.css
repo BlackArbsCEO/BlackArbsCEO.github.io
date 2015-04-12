@@ -1,6 +1,6 @@
 <style>
     div.cell{
-        width: 850px; /* altered from 850px*/
+        width: 1000px; /* altered from 850px*/
         margin-left: 10% !important; /*altered from 10%*/
         margin-right: auto; /*altered from auto%*/
     }
@@ -74,7 +74,7 @@
         font-family: "Open sans",verdana,arial,sans-serif;
         line-height: 135%;
         font-size: 125%;
-        width:750px; /* altered from 750px */
+        width:1000px; /* altered from 750px */
         margin-left:auto;
         margin-right:auto;
         text-align:justify;
