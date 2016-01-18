@@ -4,7 +4,7 @@
         margin-left: 0%!important; /*altered from 10%*/
         margin-right: 5%; /*altered from auto%*/
     }
-    div.text_cell{/*added from frankcleary.com*/
+    /*div.text_cell{added from frankcleary.com but didn't look great for current setup
         margin-top:-2px;
         margin-bottom:-2px;
         padding-top:2px;
@@ -13,7 +13,7 @@
         border-collapse:collapse;
         border-top:none;
         border-bottom:none;
-    }
+    }*/
     h1 {
         font-family: "Open sans",verdana,arial,sans-serif;
     }
