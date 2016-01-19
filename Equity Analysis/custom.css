@@ -206,6 +206,11 @@
         font-size: 100%;
         text-align: center;
       }
+    div#notebook_panel {/* added from theming w/ Hammond */
+        box-shadow: none;
+        -webkit-box-shadow: none;
+        border-top: none;
+    }
    /* element.style {
     } */  
 </style>
