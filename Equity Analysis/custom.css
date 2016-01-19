@@ -103,8 +103,8 @@
     div.output_subarea.output_html.rendered_html {
         overflow-x: scroll;
         max-width: 100%;
-      /*  overflow-y: scroll; */
-      /*  max-height: 300px;   */
+        overflow-y: scroll;/* was commented out */
+        max-height: 300px;/*  was commented out   */
     }
     code{
       font-size: 78%;
