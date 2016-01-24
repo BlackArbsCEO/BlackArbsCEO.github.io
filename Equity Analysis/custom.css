@@ -1,6 +1,6 @@
 <style>
     div.cell{
-        width: 1000px; /* altered from 850px*/
+        width: .75vw; /* altered from 850px, 1000px */
         margin-left: 0%!important; /*altered from 10%*/
         margin-right: 5%; /*altered from auto%*/
     }
@@ -84,7 +84,7 @@
         font-family: "Open sans",verdana,arial,sans-serif;
         line-height: 135%;
         font-size: 125%;
-        width:750px; /* altered from 750px */
+        width:.75vw; /* altered from 750px */
         margin-left:auto;
         margin-right:auto;
         text-align:justify;
@@ -102,7 +102,7 @@
     }
     div.output_subarea.output_html.rendered_html {
         overflow-x: scroll;
-        max-width: 100%;
+        max-width: .75vw; /* 100%; */
         overflow-y: scroll;/* was commented out */
         max-height: 300px;/*  was commented out   */
     }
@@ -195,7 +195,7 @@
       display:block;
       background: #f3f3f3;
       font-family: "Open sans",verdana,arial,sans-serif;
-      width:700px; /*altered from 610px*/
+      width: .75vw; /*altered from 610px 700px */
       padding: 5px 5px 5px 5px; /*altered from 15px 15px 15px 15px*/
       text-align:justify;
       text-justify:inter-word;
