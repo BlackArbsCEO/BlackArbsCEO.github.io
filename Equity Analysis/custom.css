@@ -1,6 +1,6 @@
 <style>
     div.cell{
-        width: auto; /* altered from 850px, 1000px */
+        width: 1000px; /* altered from 850px, 1000px */
         margin-left: 0%!important; /*altered from 10%*/
         margin-right: 5%; /*altered from auto%*/
     }
